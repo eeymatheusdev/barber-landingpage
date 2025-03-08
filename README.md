@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="barber logo" title="barber logo" src=".github/LOGO.png" />
+  <img alt="barber logo" title="barber logo" src=".github/LOGO.png" width="25%" height="25%" />
 </h1>
 
 <br>
 
 <div style="display: flex; justify-content: center;">
-  <img alt="Projeto Desktop" src=".github/WEB.PNG" style="margin: 2px; width: 70%; height: auto;" />
-  <img alt="Projeto Mobile" src=".github/MOBILE.PNG" style="margin: 2px; width: 20%; height: auto;" />
+  <img alt="Projeto Desktop" src=".github/WEB.PNG" style="margin: 2px; width: 70%; height: 80%;" />
+  <img alt="Projeto Mobile" src=".github/MOBILE.PNG" style="margin: 2px; width: 20%; height: 80%;" />
 </div>
 
 ## ✨ Tecnologias
