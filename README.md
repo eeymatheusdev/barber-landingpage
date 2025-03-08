@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="barber logo" title="barber logo" src=".github/LOGO.png" width="25%" height="25%" />
+  <img alt="barber logo" title="barber logo" src=".github/LOGO.png" width="25%" height="15%" />
 </h1>
 
 <br>
